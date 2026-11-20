@@ -30,3 +30,7 @@ Se comprobaron la compilación y los enlaces de las 11 notas. En el navegador se
 ## [2026-11-20] decision | Logo oficial, WhatsApp y trabajo por fases
 
 El usuario entregó el logo oficial y eligió WhatsApp al 316 644 7477 para los botones de contacto de la landing. También pidió aplicar la guía de Emil Kowalski y marcar el avance en un plan en la raíz. Se dejó la [lista de implementación](../PLAN-IMPLEMENTACION.md) y se vinculó desde [[proyecto/plan|Plan de trabajo]].
+
+## [2026-11-20] build | Marca oficial y contacto por WhatsApp
+
+Se incorporó el PNG oficial en la web. Los botones abren WhatsApp con texto de pedido, de consulta sobre el producto o de horario. Se mantuvieron los enlaces a Fudo y se aplicó [[fuentes/emil-kowalski|la guía de interacción]] al toque, el foco y la apertura de fichas. Véase [[proyecto/diseno|Diseño de la web]].

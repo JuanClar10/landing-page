@@ -13,11 +13,11 @@ Marca las tareas al completarlas. Cierra cada fase con un commit propio, súbelo
 
 ## Fase 2 · Marca y contacto
 
-- [ ] Colocar el logo oficial en el encabezado, el pie y la pestaña del navegador.
-- [ ] Añadir botones de WhatsApp en la portada, el encabezado, las fichas y la sección de visita.
-- [ ] Sugerir un mensaje general para pedidos y mensajes específicos para el producto o el horario.
-- [ ] Aplicar la guía de Emil Kowalski a la respuesta al toque, la apertura de las fichas y los estados de foco.
-- [ ] Mantener la carta, la búsqueda, los filtros y los enlaces de pedido en Fudo.
+- [x] Colocar el logo oficial en el encabezado, el pie y la pestaña del navegador.
+- [x] Añadir botones de WhatsApp en la portada, el encabezado, las fichas y la sección de visita.
+- [x] Sugerir un mensaje general para pedidos y mensajes específicos para el producto o el horario.
+- [x] Aplicar la guía de Emil Kowalski a la respuesta al toque, la apertura de las fichas y los estados de foco.
+- [x] Mantener la carta, la búsqueda, los filtros y los enlaces de pedido en Fudo.
 
 ## Fase 3 · Pruebas y entrega
 

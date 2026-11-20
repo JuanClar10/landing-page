@@ -17,4 +17,4 @@ Pastelería y cafetería en el barrio Cañahuate, Valledupar. La [[negocio/catal
 | Instagram | [@la__postreria](https://www.instagram.com/la__postreria/) |
 | Facebook | [La Postrería](https://www.facebook.com/laapostreria) |
 
-La web utiliza el logo y fotografías publicados por el negocio en su carta. Los datos se verificaron con la [[fuentes/fudo|fuente de Fudo]] el 20 de noviembre de 2026.
+La web usa el logo oficial que entregó el usuario como archivo PNG. El encabezado, el pie y el icono de la pestaña usan [la copia íntegra del original](../../public/marca/la-postreria.png). Las fotografías proceden de la carta. Los datos se verificaron con la [[fuentes/fudo|fuente de Fudo]] el 20 de noviembre de 2026.

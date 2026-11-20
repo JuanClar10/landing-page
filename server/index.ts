@@ -49,6 +49,7 @@ const mimeTypes: Record<string, string> = {
   '.css': 'text/css; charset=utf-8',
   '.webp': 'image/webp',
   '.jpg': 'image/jpeg',
+  '.png': 'image/png',
 }
 
 function plain(res: ServerResponse, status: number, message: string) {

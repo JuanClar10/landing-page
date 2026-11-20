@@ -23,6 +23,7 @@ Memoria del sitio web y catálogo de La Postrería Café en Valledupar. Abre est
 ## Fuentes y mantenimiento
 
 - [[fuentes/nina|Nina con Amore]] — referencia para la estructura de navegación.
+- [[fuentes/emil-kowalski|Emil Kowalski]] — guía para las interacciones y el movimiento de la landing.
 - [[fuentes/fudo|Fuentes de Fudo]] — carta, documentación oficial y evidencia de configuración.
 - [[fuentes/llm-wiki|LLM Wiki]] — patrón de mantenimiento elegido para la bóveda.
 - [[log|Bitácora]] — cambios, hallazgos y decisiones en orden cronológico.

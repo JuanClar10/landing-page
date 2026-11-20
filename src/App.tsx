@@ -1,14 +1,18 @@
 import { useEffect, useRef, useState } from 'react'
 import type { RefObject } from 'react'
-import { categories, collections, featured, formatPrice, maps, menuUrl, products, productPhoto, searchKey, whatsapp } from './catalog'
+import { categories, collections, featured, formatPrice, maps, menuUrl, products, productPhoto, searchKey, whatsappLink } from './catalog'
 import type { Product, StockSnapshot, Availability } from './types'
 
 const BATCH_SIZE = 12
+const ORDER_CHAT = whatsappLink('Hola, La Postrería Café. Me gustaría hacer un pedido. ¿Me pueden ayudar?')
+const VISIT_CHAT = whatsappLink('Hola, La Postrería Café. ¿Me confirman el horario para visitarlos?')
 
-function Icon({ name }: { name: 'search' | 'bag' | 'pin' | 'clock' | 'spark' }) {
+type ProductSelection = { product: Product; pointerActivated: boolean }
+
+function Icon({ name }: { name: 'search' | 'chat' | 'pin' | 'clock' | 'spark' }) {
   const paths = {
     search: <><circle cx="10.8" cy="10.8" r="6.8" /><path d="m16 16 4.2 4.2" /></>,
-    bag: <><path d="M4.5 8h15l1 13h-17l1-13Z" /><path d="M8.5 9V6a3.5 3.5 0 0 1 7 0v3" /></>,
+    chat: <><path d="M20.7 11.6a8.5 8.5 0 0 1-8.6 8.4c-1.4 0-2.7-.3-3.9-.9l-4.9 1.3 1.4-4.6a8.3 8.3 0 0 1-1.3-4.2 8.7 8.7 0 0 1 17.3 0Z" /><path d="M9 11.6h6" /></>,
     pin: <><path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 1 1 14 0Z" /><circle cx="12" cy="10" r="2.3" /></>,
     clock: <><circle cx="12" cy="12" r="8.5" /><path d="M12 7.5v5l3 2" /></>,
     spark: <path d="M12 1c0 7.4 3.6 11 11 11-7.4 0-11 3.6-11 11 0-7.4-3.6-11-11-11 7.4 0 11-3.6 11-11Z" />,
@@ -18,8 +22,7 @@ function Icon({ name }: { name: 'search' | 'bag' | 'pin' | 'clock' | 'spark' }) 
 
 function Brand() {
   return <a className="brand" href="#inicio" aria-label="La Postrería Café · Inicio">
-    <img src="/fudo/logo.jpg" width="49" height="49" alt="" />
-    <span>La Postrería <small>CAFÉ</small></span>
+    <img src="/marca/la-postreria.png" width="1773" height="1285" alt="" />
   </a>
 }
 
@@ -36,9 +39,9 @@ function StockLabel({ stock }: { stock?: Availability }) {
   return null
 }
 
-function Card({ product, stock, open }: { product: Product; stock?: Availability; open: (product: Product) => void }) {
+function Card({ product, stock, open }: { product: Product; stock?: Availability; open: (selection: ProductSelection) => void }) {
   return <article className="product-card">
-    <button className="product-button" onClick={() => open(product)} aria-label={'Ver ' + product.name}>
+    <button className="product-button" onClick={event => open({ product, pointerActivated: event.detail > 0 })} aria-label={'Ver ' + product.name}>
       <span className="product-image"><ProductImage product={product} /></span>
       <span className="product-meta">
         <span className="product-category">{categories[product.category]}</span>
@@ -50,16 +53,17 @@ function Card({ product, stock, open }: { product: Product; stock?: Availability
   </article>
 }
 
-function ProductDialog({ product, stock, onClose, dialog }: {
-  product: Product | null
+function ProductDialog({ selection, stock, onClose, dialog }: {
+  selection: ProductSelection | null
   stock?: Availability
   onClose: () => void
   dialog: RefObject<HTMLDialogElement | null>
 }) {
+  const product = selection?.product
   useEffect(() => {
     if (product && !dialog.current?.open) dialog.current?.showModal()
   }, [dialog, product])
-  return <dialog ref={dialog} className="product-dialog" onClose={onClose} aria-labelledby="detail-name">
+  return <dialog ref={dialog} className="product-dialog" onClose={onClose} aria-labelledby="detail-name" data-pointer-open={selection?.pointerActivated ? '' : undefined}>
     {product && <div className="dialog-grid">
       <button type="button" className="close-dialog" onClick={() => dialog.current?.close()} aria-label="Cerrar ficha">×</button>
       <div className="dialog-photo"><ProductImage key={product.id} product={product} /></div>
@@ -69,8 +73,12 @@ function ProductDialog({ product, stock, onClose, dialog }: {
         <p className="dialog-price">{formatPrice(product.price)}</p>
         {product.description && <p>{product.description}</p>}
         <StockLabel stock={stock} />
-        <a className="button primary" href={new URL(product.path, menuUrl).toString()}>Ver en Fudo</a>
-        <p className="small-note">Confirma precio, opciones y disponibilidad en Fudo.</p>
+        <div className="dialog-actions">
+          <a className="button primary" href={whatsappLink('Hola, La Postrería Café. Me interesa ' + product.name + '. ¿Me confirman el precio y la disponibilidad?')}>
+            <Icon name="chat" /> Consultar por WhatsApp
+          </a>
+          <a className="button outline" href={new URL(product.path, menuUrl).toString()}>Ver en Fudo</a>
+        </div>
       </div>
     </div>}
   </dialog>
@@ -81,7 +89,7 @@ export default function App() {
   const [category, setCategory] = useState('')
   const [query, setQuery] = useState('')
   const [visible, setVisible] = useState(BATCH_SIZE)
-  const [selected, setSelected] = useState<Product | null>(null)
+  const [selected, setSelected] = useState<ProductSelection | null>(null)
   const [stock, setStock] = useState<StockSnapshot['states']>({})
   const dialog = useRef<HTMLDialogElement>(null)
   const search = useRef<HTMLInputElement>(null)
@@ -123,7 +131,7 @@ export default function App() {
         </nav>
         <div className="header-actions">
           <a className="search-link" href="#carta" aria-label="Buscar en la carta" onClick={() => search.current?.focus({ preventScroll: true })}><Icon name="search" /></a>
-          <a className="button primary header-order" href={menuUrl}><Icon name="bag" /><span>Pedir en línea</span></a>
+          <a className="button primary header-order" href={ORDER_CHAT}><Icon name="chat" /> WhatsApp</a>
         </div>
       </div>
     </header>
@@ -135,13 +143,12 @@ export default function App() {
           <h1 id="hero-title">La vida sabe<br />mejor <em>dulce.</em></h1>
           <p className="hero-description">Postres para comer a cucharadas, tortas para celebrar y un cafecito que siempre cae bien.</p>
           <div className="hero-actions">
-            <a className="button primary" href="#carta" onClick={() => selectGroup('')}>Explorar la carta</a>
-            <a className="button outline" href="#visitanos">Visítanos</a>
+            <a className="button primary" href={ORDER_CHAT}><Icon name="chat" /> Pedir por WhatsApp</a>
+            <a className="button outline" href="#carta" onClick={() => selectGroup('')}>Ver la carta</a>
           </div>
         </div>
         <figure className="hero-visual">
           <img src="/fudo/72.webp" alt="Cheesecake de frutos del bosque de La Postrería Café" fetchPriority="high" />
-          <span className="hero-spark"><Icon name="spark" /></span>
           <figcaption>Cheesecake Frutos del Bosque</figcaption>
         </figure>
       </section>
@@ -215,7 +222,7 @@ export default function App() {
             <p className="visit-line"><Icon name="clock" /> Todos los días de 9:50 a. m. a 6:30 p. m.</p>
             <div className="hero-actions">
               <a className="button cream" href={maps}>Cómo llegar</a>
-              <a className="button pale-outline" href={whatsapp}>Escríbenos</a>
+              <a className="button pale-outline" href={VISIT_CHAT}><Icon name="chat" /> Consultar horario</a>
             </div>
           </div>
         </div>
@@ -234,6 +241,6 @@ export default function App() {
       </div>
     </footer>
 
-    <ProductDialog product={selected} stock={selected ? stock[selected.id] : undefined} onClose={() => setSelected(null)} dialog={dialog} />
+    <ProductDialog selection={selected} stock={selected ? stock[selected.product.id] : undefined} onClose={() => setSelected(null)} dialog={dialog} />
   </>
 }

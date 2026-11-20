@@ -3,7 +3,7 @@ import type { Product } from './types'
 
 export const products: Product[] = Array.from(new Map(catalog.products.map(product => [product.id, product])).values())
 export const menuUrl = catalog.source
-export const whatsapp = 'https://wa.me/573166447477'
+export const whatsappLink = (message: string) => 'https://wa.me/573166447477?text=' + encodeURIComponent(message)
 export const maps = 'https://www.google.com/maps/search/?api=1&query=Calle+14+8-59+Cañahuate+Valledupar'
 
 export const categories: Record<string, string> = {
