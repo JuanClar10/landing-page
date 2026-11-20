@@ -2,6 +2,8 @@
 
 Web y carta de La Postrería Café, Valledupar. Incluye 191 productos de la carta pública de Fudo, búsqueda, filtros, fichas y enlaces al canal de pedidos.
 
+El [plan de implementación](PLAN-IMPLEMENTACION.md) registra las tareas completadas por fase.
+
 ## Abrir la web en tu computador
 
 Abre esta carpeta en una terminal y ejecuta estos comandos.

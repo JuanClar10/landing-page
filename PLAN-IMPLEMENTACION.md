@@ -21,8 +21,10 @@ Marca las tareas al completarlas. Cierra cada fase con un commit propio, súbelo
 
 ## Fase 3 · Pruebas y entrega
 
-- [ ] Comprobar la compilación y los enlaces de la wiki.
-- [ ] Revisar el logo, la legibilidad y los botones en escritorio y en un ancho móvil.
-- [ ] Verificar el número de WhatsApp y el texto de cada enlace, que queda listo para que el cliente lo envíe.
-- [ ] Probar el catálogo, la ficha con teclado, el movimiento reducido y la salida a Fudo.
-- [ ] Registrar en la wiki lo verificado y cualquier prueba pendiente.
+- [x] Comprobar la compilación y los enlaces de la wiki.
+- [x] Revisar el logo, la legibilidad y los botones en escritorio y en anchos de 320 y 390 píxeles.
+- [x] Verificar el número de WhatsApp y el texto de cada enlace, que queda listo para que el cliente lo envíe.
+- [x] Probar el catálogo, la ficha con teclado, la condición de movimiento reducido en CSS y la salida a Fudo.
+- [x] Registrar en la wiki lo verificado y cualquier prueba pendiente.
+
+Los anchos móviles se verificaron en el navegador de escritorio. La prueba en un teléfono físico queda pendiente.

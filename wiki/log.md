@@ -34,3 +34,7 @@ El usuario entregó el logo oficial y eligió WhatsApp al 316 644 7477 para los 
 ## [2026-11-20] build | Marca oficial y contacto por WhatsApp
 
 Se incorporó el PNG oficial en la web. Los botones abren WhatsApp con texto de pedido, de consulta sobre el producto o de horario. Se mantuvieron los enlaces a Fudo y se aplicó [[fuentes/emil-kowalski|la guía de interacción]] al toque, el foco y la apertura de fichas. Véase [[proyecto/diseno|Diseño de la web]].
+
+## [2026-11-20] lint | Verificación del logo, WhatsApp y catálogo
+
+Se comprobó que el logo coincide con el PNG del usuario y que los cuatro botones preparan sus mensajes para el número +57 316 644 7477. Se verificaron la búsqueda sin tilde, los filtros, la ficha de Café Americano en Fudo y la apertura y cierre con teclado y retorno de foco. La transición de la ficha con puntero quedó condicionada a la preferencia de movimiento en CSS. Se revisó en escritorio y a 320 y 390 píxeles en el navegador. La prueba en teléfono físico está pendiente. Se marcó la revisión en la [lista de implementación](../PLAN-IMPLEMENTACION.md).
