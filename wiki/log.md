@@ -38,3 +38,7 @@ Se incorporó el PNG oficial en la web. Los botones abren WhatsApp con texto de 
 ## [2026-11-20] lint | Verificación del logo, WhatsApp y catálogo
 
 Se comprobó que el logo coincide con el PNG del usuario y que los cuatro botones preparan sus mensajes para el número +57 316 644 7477. Se verificaron la búsqueda sin tilde, los filtros, la ficha de Café Americano en Fudo y la apertura y cierre con teclado y retorno de foco. La transición de la ficha con puntero quedó condicionada a la preferencia de movimiento en CSS. Se revisó en escritorio y a 320 y 390 píxeles en el navegador. La prueba en teléfono físico está pendiente. Se marcó la revisión en la [lista de implementación](../PLAN-IMPLEMENTACION.md).
+
+## [2026-11-20] lint | Comprobación de la versión de producción
+
+Se verificó la compilación, el enlace de cada fase a su commit en GitHub y la respuesta del servidor local para la portada, el logo y las 191 fotos. La comprobación de Fudo indicó que las credenciales todavía no están configuradas. La revisión de WhatsApp en teléfono físico quedó como tarea abierta en la [lista de implementación](../PLAN-IMPLEMENTACION.md).

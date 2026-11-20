@@ -8,7 +8,7 @@ tags: [postreria, plan]
 
 La actualización del logo oficial, WhatsApp e interacciones sigue la [lista de implementación por fases](../../PLAN-IMPLEMENTACION.md), que está en la raíz. Cada fase tiene su propio commit y se respalda en GitHub.
 
-La actualización está implementada y verificada en el navegador. La revisión de los botones en un teléfono físico queda pendiente.
+La actualización está implementada y verificada en el navegador. El servidor de producción local entregó la portada, el logo y las 191 fotografías del catálogo. La revisión de los botones en un teléfono físico queda pendiente y figura en la lista de la raíz.
 
 | Hito | Estado | Cómo lo comprobamos |
 | --- | --- | --- |
