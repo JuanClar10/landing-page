@@ -1,0 +1,28 @@
+---
+type: bitacora
+updated: 2026-11-20
+tags: [postreria, bitacora]
+---
+
+# Bitácora
+
+Entradas en orden de incorporación. El [[index|índice]] enlaza el estado actual de cada tema.
+
+## [2026-11-20] ingest | Fuentes del proyecto
+
+Se revisaron la portada y los tipos de página de [[fuentes/nina|Nina con Amore]]. Se guardó la extracción de 192 fichas de [[negocio/catalogo|Fudo]] con precios, descripciones visibles y fotografías. Se registraron horario, ubicación y contacto en [[negocio/la-postreria|La Postrería Café]].
+
+## [2026-11-20] query | Lectura de stock en Fudo
+
+La API documenta lectura de productos y stock registrado. Las capturas confirman activación y un usuario de integración. La prueba con el negocio quedó pendiente de credenciales y comprobación de permisos. Véase [[proyecto/fudo-stock|Stock desde Fudo]].
+
+## [2026-11-20] decision | Alcance de la primera web
+
+Se implementó una carta web en React, TypeScript y Node.js con el pedido en Fudo. Las colecciones y los destacados se eligieron a partir de la carta y se definió una identidad visual crema y vino. Véase [[proyecto/diseno|Diseño de la web]].
+
+## [2026-11-20] build | Agente y flujo de trabajo
+
+Se creó la bóveda siguiendo el patrón [[fuentes/llm-wiki|LLM Wiki]], se configuró el agente en `AGENTS.md` y se dejó el [[proyecto/plan|plan de trabajo]]. Se vinculó la carpeta a [[proyecto/github|GitHub]].
+## [2026-11-20] lint | Validación de la web y la wiki
+
+Se comprobaron la compilación y los enlaces de las 11 notas. En el navegador se probaron la navegación, la carta con 191 productos únicos, los filtros, la búsqueda sin tilde, el recorrido hacia la ficha oficial y el diseño móvil de 390 píxeles. La consulta de stock se probó con datos simulados. La conexión a la cuenta de Fudo sigue pendiente.

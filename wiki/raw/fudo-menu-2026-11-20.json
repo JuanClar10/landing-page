@@ -1,0 +1,1940 @@
+{
+  "source": "https://menu.fu.do/lapostrer%C3%ADacaf%C3%A9",
+  "capturedOn": "2026-11-20",
+  "brand": [
+    {
+      "alt": "Background",
+      "src": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/online-menu/background-image?updatedAt=1770695670508"
+    },
+    {
+      "alt": "Logo",
+      "src": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/online-menu/logo"
+    },
+    {
+      "alt": "La Postrería Café",
+      "src": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/online-menu/logo"
+    }
+  ],
+  "products": [
+    {
+      "id": "580",
+      "category": "combo-del-dia",
+      "path": "/lapostreríacafé/combo-del-dia/croissant-gratinado-manzana-postobon-580",
+      "name": "Croissant gratinado + Manzana Postobón",
+      "description": "",
+      "price": 14000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/580",
+      "wasSoldOut": false
+    },
+    {
+      "id": "579",
+      "category": "combo-del-dia",
+      "path": "/lapostreríacafé/combo-del-dia/el-break-ideal-579",
+      "name": "El Break Ideal",
+      "description": "🥐🍎 ¡Combo \"Antojo Delicioso\"! 😋 Disfruta nuestro croissant de mantequilla, horneado al punto, relleno de jamón premium y queso mozzarella que se derrite en tu boca. Acompáñalo con la frescura inconfundible de una manzana Postobón helada. ¡El sabor de siempre, ahora en tu combo ideal!",
+      "price": 10000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/579",
+      "wasSoldOut": false
+    },
+    {
+      "id": "84",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/amor-mio-chocolate-84",
+      "name": "Amor Mío - Chocolate",
+      "description": "",
+      "price": 20000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/84",
+      "wasSoldOut": false
+    },
+    {
+      "id": "82",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/amor-mio-red-velvet-82",
+      "name": "Amor Mío - Red Velvet",
+      "description": "",
+      "price": 20000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/82",
+      "wasSoldOut": false
+    },
+    {
+      "id": "83",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/amor-mio-tiramisu-83",
+      "name": "Amor Mío - Tiramisú",
+      "description": "",
+      "price": 20000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/83",
+      "wasSoldOut": false
+    },
+    {
+      "id": "85",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/amor-mio-torterito-85",
+      "name": "Amor Mío - Torterito",
+      "description": "",
+      "price": 20000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/85",
+      "wasSoldOut": false
+    },
+    {
+      "id": "88",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/brownie-chocolate-88",
+      "name": "Brownie - Chocolate",
+      "description": "",
+      "price": 22000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/88",
+      "wasSoldOut": false
+    },
+    {
+      "id": "86",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/brownie-red-velvet-86",
+      "name": "Brownie - Red Velvet",
+      "description": "",
+      "price": 22000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/86",
+      "wasSoldOut": false
+    },
+    {
+      "id": "87",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/brownie-tiramisu-87",
+      "name": "Brownie - Tiramisú",
+      "description": "",
+      "price": 22000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/87",
+      "wasSoldOut": false
+    },
+    {
+      "id": "89",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/brownie-torterito-89",
+      "name": "Brownie - Torterito",
+      "description": "",
+      "price": 22000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/89",
+      "wasSoldOut": false
+    },
+    {
+      "id": "108",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/fresas-con-crema-chocolate-108",
+      "name": "Fresas con crema - Chocolate",
+      "description": "",
+      "price": 22000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/108",
+      "wasSoldOut": false
+    },
+    {
+      "id": "106",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/fresas-con-crema-red-velvet-106",
+      "name": "Fresas con crema - Red Velvet",
+      "description": "",
+      "price": 22000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/106",
+      "wasSoldOut": false
+    },
+    {
+      "id": "107",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/fresas-con-crema-tiramisu-107",
+      "name": "Fresas con crema - Tiramisú",
+      "description": "",
+      "price": 22000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/107",
+      "wasSoldOut": false
+    },
+    {
+      "id": "109",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/fresas-con-crema-torterito-109",
+      "name": "Fresas con crema - Torterito",
+      "description": "",
+      "price": 22000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/109",
+      "wasSoldOut": false
+    },
+    {
+      "id": "92",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/napoleon-chocolate-92",
+      "name": "Napoleón - Chocolate",
+      "description": "",
+      "price": 20000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/92?updatedAt=1794887512",
+      "wasSoldOut": false
+    },
+    {
+      "id": "90",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/napoleon-red-velvet-90",
+      "name": "Napoleón - Red Velvet",
+      "description": "",
+      "price": 20000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/90?updatedAt=1794887491",
+      "wasSoldOut": false
+    },
+    {
+      "id": "91",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/napoleon-tiramisu-91",
+      "name": "Napoleón - Tiramisú",
+      "description": "",
+      "price": 20000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/91?updatedAt=1794887476",
+      "wasSoldOut": false
+    },
+    {
+      "id": "93",
+      "category": "combos-cuchareables",
+      "path": "/lapostreríacafé/combos-cuchareables/napoleon-torterito-93",
+      "name": "Napoleón - Torterito",
+      "description": "",
+      "price": 20000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/93?updatedAt=1794887544",
+      "wasSoldOut": false
+    },
+    {
+      "id": "161",
+      "category": "postres",
+      "path": "/lapostreríacafé/postres/postre-3-leches-tradicional-amor-mio-161",
+      "name": "Postre 3 Leches Tradicional Amor Mío",
+      "description": "Postre de torta con crema chantillí, chocolate y cerezas 🍒 Húmeda en 3 leches",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/161",
+      "wasSoldOut": false
+    },
+    {
+      "id": "156",
+      "category": "postres",
+      "path": "/lapostreríacafé/postres/porcion-torta-alfajor-156",
+      "name": "Porción Torta Alfajor",
+      "description": "Deliciosa torta de alfajor😍😍😍😍😍 lleva arequipe y trozos de alfajor, Ponqué de vainilla bajo en azúcar y crema cubierta deliciosa con vainilla y arequipe",
+      "price": 9500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/156",
+      "wasSoldOut": false
+    },
+    {
+      "id": "158",
+      "category": "postres",
+      "path": "/lapostreríacafé/postres/porcion-torta-chocoflan-158",
+      "name": "Porción Torta Chocoflan",
+      "description": "Flan y torta de chocolate en un mismo lugar, con el mejor caramelo.",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/158?updatedAt=1794887345",
+      "wasSoldOut": false
+    },
+    {
+      "id": "159",
+      "category": "postres",
+      "path": "/lapostreríacafé/postres/porcion-flan-de-caramelo-159",
+      "name": "Porción Flan de Caramelo",
+      "description": "Poción de flan de caramelo.",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/159",
+      "wasSoldOut": false
+    },
+    {
+      "id": "163",
+      "category": "postres",
+      "path": "/lapostreríacafé/postres/postre-pave-vallenato-163",
+      "name": "Postre Pavé Vallenato",
+      "description": "Postre con crema tradicional, capas de galletas especiales, Arequipe y chocolate triturado. Receta de la casa 🏡",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/163",
+      "wasSoldOut": false
+    },
+    {
+      "id": "162",
+      "category": "postres",
+      "path": "/lapostreríacafé/postres/postre-napoleon-3-leches-162",
+      "name": "Postre Napoleón 3 Leches",
+      "description": "Postre con base de 3 leches cremosa con postre napoleón trozos de galleta, Chips de chocolate blanco y leche condensada",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/162",
+      "wasSoldOut": false
+    },
+    {
+      "id": "152",
+      "category": "postres",
+      "path": "/lapostreríacafé/postres/postre-4-leches-152",
+      "name": "Postre 4 leches",
+      "description": "Base de bizcocho húmedo en 3 leches, Arequipe del mejor y cereza",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/152",
+      "wasSoldOut": false
+    },
+    {
+      "id": "154",
+      "category": "postres",
+      "path": "/lapostreríacafé/postres/postre-maracuya-tropical-154",
+      "name": "Postre Maracuyá Tropical",
+      "description": "Con base de mousse de Maracuyá, capas de galletas, crema napoleón, galletas, zumo de maracuya natural, trozos de fresa, cereza y leche condensada",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/154",
+      "wasSoldOut": false
+    },
+    {
+      "id": "155",
+      "category": "postres",
+      "path": "/lapostreríacafé/postres/postre-pie-de-limon-155",
+      "name": "Postre Pie de Limón",
+      "description": "Cremoso, citrico y refrescante, el limón que nunca puede faltar, con miga de galleta y leche condensada.",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/155",
+      "wasSoldOut": false
+    },
+    {
+      "id": "700",
+      "category": "postres",
+      "path": "/lapostreríacafé/postres/porcion-torta-de-chocolate-700",
+      "name": "Porción Torta de Chocolate",
+      "description": "",
+      "price": 10500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/700?updatedAt=1794887359",
+      "wasSoldOut": false
+    },
+    {
+      "id": "74",
+      "category": "cheesecakes",
+      "path": "/lapostreríacafé/cheesecakes/cheesecake-frutos-del-bosque-porcion-74",
+      "name": "Cheesecake Frutos del Bosque porción",
+      "description": "Con los mejores quesos, confituras y crema con frutos del bosque con trozos de fruta fresca.",
+      "price": 13500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/74",
+      "wasSoldOut": true
+    },
+    {
+      "id": "77",
+      "category": "cheesecakes",
+      "path": "/lapostreríacafé/cheesecakes/cheesecake-napoleon-porcion-77",
+      "name": "Cheesecake Napoleón porción",
+      "description": "Postre con tres tipos de queso, postre napoleón, galletas y chips de chocolate blanco conleche condensada.",
+      "price": 13500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/77",
+      "wasSoldOut": false
+    },
+    {
+      "id": "76",
+      "category": "cheesecakes",
+      "path": "/lapostreríacafé/cheesecakes/cheesecake-maracuya-porcion-76",
+      "name": "Cheesecake Maracuyá porción",
+      "description": "Porción de cheesecake con confitura de maracuyá",
+      "price": 13500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/76",
+      "wasSoldOut": false
+    },
+    {
+      "id": "72",
+      "category": "cheesecakes",
+      "path": "/lapostreríacafé/cheesecakes/cheesecake-frutos-del-bosque-72",
+      "name": "Cheesecake Frutos del Bosque",
+      "description": "Cheesecake de frutos rojos, mora, fresa",
+      "price": 125000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/72",
+      "wasSoldOut": false
+    },
+    {
+      "id": "75",
+      "category": "cheesecakes",
+      "path": "/lapostreríacafé/cheesecakes/cheesecake-napoleon-75",
+      "name": "Cheesecake Napoleón",
+      "description": "Crema de postre napoleón, galletas y chips de chocolate blanco",
+      "price": 125000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/75?updatedAt=1794887150",
+      "wasSoldOut": false
+    },
+    {
+      "id": "73",
+      "category": "cheesecakes",
+      "path": "/lapostreríacafé/cheesecakes/cheesecake-maracuya-73",
+      "name": "Cheesecake Maracuyá",
+      "description": "Con los mejores quesos y confitura de maracuyá",
+      "price": 125000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/73",
+      "wasSoldOut": false
+    },
+    {
+      "id": "22",
+      "category": "arroz-con-leche",
+      "path": "/lapostreríacafé/arroz-con-leche/arroz-con-leche-tradicional-10-onz-22",
+      "name": "Arroz con leche tradicional 10 onz",
+      "description": "El mejor arroz con leche del mundo. Se lo pongo al que sea…",
+      "price": 9000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/22?updatedAt=1794955656",
+      "wasSoldOut": false
+    },
+    {
+      "id": "120",
+      "category": "cuchareables",
+      "path": "/lapostreríacafé/cuchareables/cuchareable-amor-mio-120",
+      "name": "Cuchareable Amor Mío",
+      "description": "Torta 3 leches, trozos de cereza, ganache de chocolate, crema chantillí, bola de helado y cereza",
+      "price": 12000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/120",
+      "wasSoldOut": false
+    },
+    {
+      "id": "110",
+      "category": "cuchareables",
+      "path": "/lapostreríacafé/cuchareables/cuchareable-brownie-110",
+      "name": "Cuchareable Brownie",
+      "description": "Capas de chantillí de chocolate blanco , Brownie, Arequipe, helado y cereza",
+      "price": 14000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/110",
+      "wasSoldOut": false
+    },
+    {
+      "id": "119",
+      "category": "cuchareables",
+      "path": "/lapostreríacafé/cuchareables/cuchareable-napoleon-119",
+      "name": "Cuchareable Napoleón",
+      "description": "Relleno de crema napoleón, Torta 3 leche con postre napoleón receta especial, chantillí de chocolate blanco, leche condensada y miga de galleta",
+      "price": 12000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/119",
+      "wasSoldOut": false
+    },
+    {
+      "id": "115",
+      "category": "cuchareables",
+      "path": "/lapostreríacafé/cuchareables/fresas-con-crema-115",
+      "name": "Fresas con crema",
+      "description": "Delicioso cuchareable de fresas con crema chantillí exquisita, preparada con la mejor crema de leche y nuestro toque de amor",
+      "price": 12000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/115",
+      "wasSoldOut": false
+    },
+    {
+      "id": "116",
+      "category": "cuchareables",
+      "path": "/lapostreríacafé/cuchareables/fresas-con-crema-especial-brownie-116",
+      "name": "Fresas con crema especial brownie",
+      "description": "Delicioso cuchareable de fresas con crema chantillí exquisita, preparada con la mejor crema de leche, exquisito y melcochudo brownie y nuestro toque de amor",
+      "price": 14000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/116",
+      "wasSoldOut": false
+    },
+    {
+      "id": "117",
+      "category": "cuchareables",
+      "path": "/lapostreríacafé/cuchareables/fresas-con-crema-especial-helado-117",
+      "name": "Fresas con crema especial helado",
+      "description": "Delicioso cuchareable de fresas con crema chantillí exquisita, preparada con la mejor crema de leche, exquisito y suave helado de vainilla o arequipe y queso costeño",
+      "price": 14000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/117",
+      "wasSoldOut": false
+    },
+    {
+      "id": "121",
+      "category": "cuchareables",
+      "path": "/lapostreríacafé/cuchareables/cuchareable-red-velvet-121",
+      "name": "Cuchareable Red Velvet",
+      "description": "Torta de chocolate roja, crema de queso, helado vainilla y leche condensada",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/121",
+      "wasSoldOut": false
+    },
+    {
+      "id": "123",
+      "category": "cuchareables",
+      "path": "/lapostreríacafé/cuchareables/cuchareable-tiramisu-123",
+      "name": "Cuchareable Tiramisú",
+      "description": "Torta húmeda en 3 leches de café, crema de queso, láminas de chocolate, cocoa tamizada y helado vainilla",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/123",
+      "wasSoldOut": false
+    },
+    {
+      "id": "112",
+      "category": "cuchareables",
+      "path": "/lapostreríacafé/cuchareables/cuchareable-torterito-112",
+      "name": "Cuchareable Torterito",
+      "description": "Combinación de todas nuestras tortas y helado de vainilla",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/112",
+      "wasSoldOut": false
+    },
+    {
+      "id": "118",
+      "category": "cuchareables",
+      "path": "/lapostreríacafé/cuchareables/cuchareable-chocolate-118",
+      "name": "Cuchareable Chocolate",
+      "description": "Para los amantes del chocolate",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/118",
+      "wasSoldOut": false
+    },
+    {
+      "id": "165",
+      "category": "sandwiches",
+      "path": "/lapostreríacafé/sandwiches/sandwich-especial-pan-de-ajo-10-cm-165",
+      "name": "Sandwich especial Pan de ajo 10 cm",
+      "description": "Horneado, pan de ajo a las finas hierbas relleno de pollo desmechado en salsa de la casa, tomate cherry, lechuga crespa y queso mozarella",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/165",
+      "wasSoldOut": false
+    },
+    {
+      "id": "166",
+      "category": "sandwiches",
+      "path": "/lapostreríacafé/sandwiches/sandwich-especial-pan-de-ajo-20-cm-166",
+      "name": "Sandwich especial Pan de ajo 20 cm",
+      "description": "Horneado, pan de ajo a las finas hierbas relleno de pollo desmechado en salsa de la casa, tomate cherry, lechuga crespa y queso mozarella",
+      "price": 16500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/166",
+      "wasSoldOut": false
+    },
+    {
+      "id": "138",
+      "category": "horneados-salados",
+      "path": "/lapostreríacafé/horneados-salados/croissant-138",
+      "name": "Croissant",
+      "description": "Con jamón de cerdo premium y queso mozarella.",
+      "price": 7000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/138",
+      "wasSoldOut": false
+    },
+    {
+      "id": "141",
+      "category": "horneados-salados",
+      "path": "/lapostreríacafé/horneados-salados/dedo-de-queso-hojaldre-141",
+      "name": "Dedo de Queso Hojaldre",
+      "description": "Delicioso dedo de queso en hojaldre",
+      "price": 5000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/141",
+      "wasSoldOut": false
+    },
+    {
+      "id": "144",
+      "category": "horneados-salados",
+      "path": "/lapostreríacafé/horneados-salados/desayuno-144",
+      "name": "Desayuno",
+      "description": "Pan de ajo a las finas hierbas, queso crema de aderezo y 2 huevitos fritos en mantequilla estrellados.",
+      "price": 14000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/144",
+      "wasSoldOut": false
+    },
+    {
+      "id": "691",
+      "category": "horneados-salados",
+      "path": "/lapostreríacafé/horneados-salados/croissant-gratinado-691",
+      "name": "Croissant gratinado",
+      "description": "",
+      "price": 12000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/691",
+      "wasSoldOut": false
+    },
+    {
+      "id": "126",
+      "category": "horneados-dulces",
+      "path": "/lapostreríacafé/horneados-dulces/rollos-de-canela-126",
+      "name": "Rollos de canela",
+      "description": "Acompañadod de glaseado de crema de queso, horneado dulce con relleno de azúcar moreno con canela en polvo.",
+      "price": 7000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/126?updatedAt=1794955109",
+      "wasSoldOut": false
+    },
+    {
+      "id": "320",
+      "category": "horneados-dulces",
+      "path": "/lapostreríacafé/horneados-dulces/pavlovas-x-12-und-320",
+      "name": "Pavlovas x 12 und",
+      "description": "Pavlovas x 12 und",
+      "price": 10500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/320?updatedAt=1794955627",
+      "wasSoldOut": false
+    },
+    {
+      "id": "595",
+      "category": "horneados-dulces",
+      "path": "/lapostreríacafé/horneados-dulces/galletitas-mini-chips-595",
+      "name": "Galletitas mini chips",
+      "description": "Galletitas mini chips",
+      "price": 12000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/595",
+      "wasSoldOut": false
+    },
+    {
+      "id": "596",
+      "category": "horneados-dulces",
+      "path": "/lapostreríacafé/horneados-dulces/galletitas-mantequillitas-596",
+      "name": "Galletitas Mantequillitas",
+      "description": "Galletitas Mantequillitas $12.000",
+      "price": 12000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/596",
+      "wasSoldOut": false
+    },
+    {
+      "id": "597",
+      "category": "horneados-dulces",
+      "path": "/lapostreríacafé/horneados-dulces/mini-alfajores-x8-597",
+      "name": "Mini alfajores x8",
+      "description": "Mini alfajores x8",
+      "price": 12000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/597",
+      "wasSoldOut": false
+    },
+    {
+      "id": "133",
+      "category": "horneados-dulces",
+      "path": "/lapostreríacafé/horneados-dulces/miguelitos-133",
+      "name": "Miguelitos",
+      "description": "Panes de leche muy bajos en dulce, rellenos con crema de postre napoleón o arequipe, espolvoreados con azucar glass",
+      "price": 6000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/133",
+      "wasSoldOut": false
+    },
+    {
+      "id": "662",
+      "category": "horneados-dulces",
+      "path": "/lapostreríacafé/horneados-dulces/miguelitos-x-4-662",
+      "name": "Miguelitos x 4",
+      "description": "",
+      "price": 20000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/662",
+      "wasSoldOut": false
+    },
+    {
+      "id": "707",
+      "category": "horneados-dulces",
+      "path": "/lapostreríacafé/horneados-dulces/panderitos-707",
+      "name": "Panderitos",
+      "description": "",
+      "price": 8000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/707?updatedAt=1794925623",
+      "wasSoldOut": false
+    },
+    {
+      "id": "24",
+      "category": "bebidas-calientes",
+      "path": "/lapostreríacafé/bebidas-calientes/cafe-americano-24",
+      "name": "Café Americano",
+      "description": "",
+      "price": 6500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/24",
+      "wasSoldOut": false
+    },
+    {
+      "id": "23",
+      "category": "bebidas-calientes",
+      "path": "/lapostreríacafé/bebidas-calientes/capuchino-23",
+      "name": "Capuchino",
+      "description": "",
+      "price": 7500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/23",
+      "wasSoldOut": false
+    },
+    {
+      "id": "25",
+      "category": "bebidas-calientes",
+      "path": "/lapostreríacafé/bebidas-calientes/milo-caliente-25",
+      "name": "Milo Caliente",
+      "description": "",
+      "price": 7500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/25",
+      "wasSoldOut": false
+    },
+    {
+      "id": "30",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/agua-cristal-600-ml-30",
+      "name": "Agua Cristal 600 ml",
+      "description": "",
+      "price": 4000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/30",
+      "wasSoldOut": false
+    },
+    {
+      "id": "33",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/agua-cristal-300-ml-33",
+      "name": "Agua Cristal 300 ml",
+      "description": "",
+      "price": 2000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/33",
+      "wasSoldOut": false
+    },
+    {
+      "id": "31",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/hatsu-amarillo-31",
+      "name": "Hatsu Amarillo",
+      "description": "",
+      "price": 5000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/31",
+      "wasSoldOut": false
+    },
+    {
+      "id": "27",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/hatsu-blanco-27",
+      "name": "Hatsu Blanco",
+      "description": "",
+      "price": 5000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/27",
+      "wasSoldOut": false
+    },
+    {
+      "id": "32",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/hatsu-negro-32",
+      "name": "Hatsu Negro",
+      "description": "",
+      "price": 5000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/32",
+      "wasSoldOut": false
+    },
+    {
+      "id": "34",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/hatsu-rosa-250-ml-34",
+      "name": "Hatsu Rosa 250 ml",
+      "description": "",
+      "price": 5000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/34",
+      "wasSoldOut": false
+    },
+    {
+      "id": "35",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/coca-cola-lata-35",
+      "name": "Coca Cola Lata",
+      "description": "",
+      "price": 5000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/35",
+      "wasSoldOut": false
+    },
+    {
+      "id": "330",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/coca-cola-original-250-ml-330",
+      "name": "Coca Cola original 250 ml",
+      "description": "",
+      "price": 2500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/330",
+      "wasSoldOut": false
+    },
+    {
+      "id": "37",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/coca-cola-original-400-ml-37",
+      "name": "Coca Cola Original 400 ml",
+      "description": "",
+      "price": 4500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/37",
+      "wasSoldOut": true
+    },
+    {
+      "id": "36",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/coca-cola-sin-azucar-250-ml-36",
+      "name": "Coca Cola Sin azúcar 250 ml",
+      "description": "",
+      "price": 2500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/36",
+      "wasSoldOut": false
+    },
+    {
+      "id": "646",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/coca-cola-sin-azucar-400-ml-646",
+      "name": "Coca Cola Sin azúcar 400 ml",
+      "description": "",
+      "price": 4500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/646",
+      "wasSoldOut": false
+    },
+    {
+      "id": "39",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/manzana-postobon-lata-39",
+      "name": "Manzana Postobon Lata",
+      "description": "",
+      "price": 4500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/39",
+      "wasSoldOut": false
+    },
+    {
+      "id": "505",
+      "category": "bebidas-frias",
+      "path": "/lapostreríacafé/bebidas-frias/latte-frio-505",
+      "name": "Latte frío",
+      "description": "",
+      "price": 10000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/505?updatedAt=1794887213",
+      "wasSoldOut": false
+    },
+    {
+      "id": "391",
+      "category": "sodas",
+      "path": "/lapostreríacafé/sodas/soda-saborizada-391",
+      "name": "Soda saborizada",
+      "description": "Elige tu preferida entre:\nCereza - Limón\nFrutos rojos\nMaracuyá Tropical",
+      "price": 11000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/391",
+      "wasSoldOut": false
+    },
+    {
+      "id": "146",
+      "category": "malteadas",
+      "path": "/lapostreríacafé/malteadas/malteada-de-arequipe-146",
+      "name": "Malteada de arequipe",
+      "description": "Base de helado de arequipe con salsa de arequipe, nevado de crema chantillí, más arequipe y fresa",
+      "price": 13000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/146",
+      "wasSoldOut": false
+    },
+    {
+      "id": "149",
+      "category": "malteadas",
+      "path": "/lapostreríacafé/malteadas/malteada-de-brownie-149",
+      "name": "Malteada de brownie",
+      "description": "Base de helado, brownie con ganache de chocolate, nevado de chantillí, trozos de brownie y cereza",
+      "price": 13000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/149",
+      "wasSoldOut": false
+    },
+    {
+      "id": "147",
+      "category": "malteadas",
+      "path": "/lapostreríacafé/malteadas/malteada-de-cafe-147",
+      "name": "Malteada de café",
+      "description": "Base de helado de café, nevado de chantillí, ganache de chocolate, cocoa y laminas de chocolate",
+      "price": 13000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/147",
+      "wasSoldOut": false
+    },
+    {
+      "id": "150",
+      "category": "malteadas",
+      "path": "/lapostreríacafé/malteadas/malteada-de-fresa-150",
+      "name": "Malteada de fresa",
+      "description": "Base de helado, fresas seleccionadas, nevado de chantillí, trozos de fresa",
+      "price": 13000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/150",
+      "wasSoldOut": false
+    },
+    {
+      "id": "148",
+      "category": "malteadas",
+      "path": "/lapostreríacafé/malteadas/malteada-de-vainilla-148",
+      "name": "Malteada de vainilla",
+      "description": "Base de helado de vainilla, nevado de chantillí, doble chip de chocolate y cereza",
+      "price": 12000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/148",
+      "wasSoldOut": false
+    },
+    {
+      "id": "26",
+      "category": "frappe",
+      "path": "/lapostreríacafé/frappe/frappe-26",
+      "name": "Frappe",
+      "description": "Frappe maracuyá , Frappe fresa Limón, Frappe cereza Limón $9.000 c/u",
+      "price": 9000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/26",
+      "wasSoldOut": false
+    },
+    {
+      "id": "522",
+      "category": "frappe",
+      "path": "/lapostreríacafé/frappe/frappe-de-cafe-522",
+      "name": "Frappe de café",
+      "description": "",
+      "price": 12000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/522",
+      "wasSoldOut": false
+    },
+    {
+      "id": "29",
+      "category": "frappe",
+      "path": "/lapostreríacafé/frappe/milo-frio-29",
+      "name": "Milo Frío",
+      "description": "",
+      "price": 10500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/29",
+      "wasSoldOut": false
+    },
+    {
+      "id": "43",
+      "category": "brownies",
+      "path": "/lapostreríacafé/brownies/brownie-tradicional-43",
+      "name": "Brownie tradicional",
+      "description": "Brownie Cremoso y crujiente",
+      "price": 6000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/43",
+      "wasSoldOut": true
+    },
+    {
+      "id": "44",
+      "category": "brownies",
+      "path": "/lapostreríacafé/brownies/brownie-con-helado-44",
+      "name": "Brownie con helado",
+      "description": "Brownie tradicional con topping de arequipe, helado y confitura de mora natural",
+      "price": 10500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/44",
+      "wasSoldOut": false
+    },
+    {
+      "id": "47",
+      "category": "brownies",
+      "path": "/lapostreríacafé/brownies/caja-mini-brownies-x-4-47",
+      "name": "Caja mini brownies x 4",
+      "description": "Con topping de base de arequipe y toppings variados de chocolates, sprinkles y galleta oreo",
+      "price": 12000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/47",
+      "wasSoldOut": false
+    },
+    {
+      "id": "48",
+      "category": "brownies",
+      "path": "/lapostreríacafé/brownies/caja-mini-brownies-x-9-48",
+      "name": "Caja mini brownies x 9",
+      "description": "Con topping de base de arequipe y toppings variados de chocolates, sprinkles y galleta oreo",
+      "price": 29000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/48",
+      "wasSoldOut": false
+    },
+    {
+      "id": "49",
+      "category": "brownies",
+      "path": "/lapostreríacafé/brownies/caja-mini-brownies-x-12-49",
+      "name": "Caja mini brownies x 12",
+      "description": "Con topping de base de arequipe y toppings variados de chocolates, sprinkles y galleta oreo",
+      "price": 32000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/49",
+      "wasSoldOut": false
+    },
+    {
+      "id": "193",
+      "category": "tortas-frias-mini",
+      "path": "/lapostreríacafé/tortas-frias-mini/torta-mini-3-leches-amor-mio-fria-193",
+      "name": "Torta Mini 3 Leches Amor Mío Fría",
+      "description": "Húmeda en 3 leches con crema chantillí, chocolate y cerezas.",
+      "price": 37000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/193",
+      "wasSoldOut": false
+    },
+    {
+      "id": "198",
+      "category": "tortas-frias-mini",
+      "path": "/lapostreríacafé/tortas-frias-mini/torta-mini-3-leches-arequipe-198",
+      "name": "Torta Mini 3 Leches Arequipe",
+      "description": "",
+      "price": 37000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/198",
+      "wasSoldOut": false
+    },
+    {
+      "id": "199",
+      "category": "tortas-frias-mini",
+      "path": "/lapostreríacafé/tortas-frias-mini/torta-mini-3-leches-confitura-fresas-y-crema-de-yogurt-199",
+      "name": "Torta Mini 3 Leches Confitura Fresas y Crema de Yogurt",
+      "description": "",
+      "price": 37000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/199",
+      "wasSoldOut": false
+    },
+    {
+      "id": "197",
+      "category": "tortas-frias-mini",
+      "path": "/lapostreríacafé/tortas-frias-mini/torta-mini-3-leches-postre-napoleon-197",
+      "name": "Torta Mini 3 Leches Postre Napoleón",
+      "description": "Torta fría hecha postre. Baja en dulce. Rellena de postre napoleón con galleta y chips de chocolate blanco con leche condensada, húmeda en 3 leches.",
+      "price": 37000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/197",
+      "wasSoldOut": false
+    },
+    {
+      "id": "196",
+      "category": "tortas-frias-mini",
+      "path": "/lapostreríacafé/tortas-frias-mini/torta-mini-3-leches-snickers-196",
+      "name": "Torta Mini 3 Leches Snickers",
+      "description": "Rellena de crema con caramelo, trozos de brownie y maní.",
+      "price": 37000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/196",
+      "wasSoldOut": false
+    },
+    {
+      "id": "194",
+      "category": "tortas-frias-mini",
+      "path": "/lapostreríacafé/tortas-frias-mini/torta-mini-fria-milo-194",
+      "name": "Torta Mini Fría Milo",
+      "description": "Rellan de crema milo y brownie tradicional.",
+      "price": 37000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/194",
+      "wasSoldOut": false
+    },
+    {
+      "id": "192",
+      "category": "tortas-frias-mini",
+      "path": "/lapostreríacafé/tortas-frias-mini/torta-mini-leche-en-polvo-y-leche-condensada-192",
+      "name": "Torta Mini leche en polvo y leche condensada",
+      "description": "Es deliciosa, con relleno de leche en polvo con leche condensada, húmeda en 3 leches, su cubierta viene con el mismo relleno.",
+      "price": 37000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/192",
+      "wasSoldOut": false
+    },
+    {
+      "id": "195",
+      "category": "tortas-frias-mini",
+      "path": "/lapostreríacafé/tortas-frias-mini/torta-mini-torta-fria-tiramisu-195",
+      "name": "Torta Mini Torta Fría Tiramisú",
+      "description": "Rellena con postre galleta tiramisú y crema de queso",
+      "price": 37000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/195",
+      "wasSoldOut": false
+    },
+    {
+      "id": "186",
+      "category": "tortas-frias-1-2-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-2-libra/1-2-lb-torta-3-leches-postre-napoleon-186",
+      "name": "1/2 lb Torta 3 Leches Postre Napoleón",
+      "description": "Torta fría húmeda en 3 leches",
+      "price": 76000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/186",
+      "wasSoldOut": false
+    },
+    {
+      "id": "189",
+      "category": "tortas-frias-1-2-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-2-libra/1-2-lb-torta-3-leches-tradicional-amor-mio-189",
+      "name": "1/2 lb Torta 3 Leches Tradicional (Amor Mío)",
+      "description": "Torta fria humeda en 3 leches.",
+      "price": 76000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/189",
+      "wasSoldOut": false
+    },
+    {
+      "id": "184",
+      "category": "tortas-frias-1-2-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-2-libra/1-2-lb-torta-fria-4-leches-184",
+      "name": "1/2 lb Torta Fría 4 Leches",
+      "description": "Torta fría , húmeda en 3 leches, con cubierta de crema chantillí con arequipe veteada , espirales de arequipe con brownie corazón en el centro.",
+      "price": 76000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/184",
+      "wasSoldOut": false
+    },
+    {
+      "id": "182",
+      "category": "tortas-frias-1-2-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-2-libra/1-2-lb-torta-fria-de-fresas-con-yogurt-182",
+      "name": "1/2 lb Torta Fría de Fresas con Yogurt",
+      "description": "Humeda en 3 leches, baja en azucar, con confitura natural de fresa y fresas en trozos. (para 12 o 14 personas)",
+      "price": 76000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/182",
+      "wasSoldOut": false
+    },
+    {
+      "id": "185",
+      "category": "tortas-frias-1-2-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-2-libra/1-2-lb-torta-fria-especial-chocobrown-arequipe-185",
+      "name": "1/2 lb Torta fría especial Chocobrown arequipe",
+      "description": "Torta fría especial Chocobrown arequipe",
+      "price": 76000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/185",
+      "wasSoldOut": false
+    },
+    {
+      "id": "181",
+      "category": "tortas-frias-1-2-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-2-libra/1-2-lb-torta-fria-maracuya-181",
+      "name": "1/2 lb Torta fría maracuyá",
+      "description": "Húmeda en 3 leches con zumo de maracuyá, cubierta de crema de queso con chantillí de chocolate blanco , zumo de maracuyá y cerezas",
+      "price": 76000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/181",
+      "wasSoldOut": false
+    },
+    {
+      "id": "187",
+      "category": "tortas-frias-1-2-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-2-libra/1-2-lb-torta-fria-milo-187",
+      "name": "1/2 lb Torta Fría Milo",
+      "description": "Torta fría húmeda en 3 leches milo, cubierta de crema de milo y chocolate, milo tamizado, ganache de chocolate, Brownie corazon con chocolate fundido.",
+      "price": 76000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/187",
+      "wasSoldOut": false
+    },
+    {
+      "id": "188",
+      "category": "tortas-frias-1-2-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-2-libra/1-2-lb-torta-fria-snickers-188",
+      "name": "1/2 lb Torta Fría Snickers",
+      "description": "Torta fría húmeda en 3 leches, rellena de crema mix con caramelo, Brownie en trozos con maní.",
+      "price": 76000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/188",
+      "wasSoldOut": false
+    },
+    {
+      "id": "190",
+      "category": "tortas-frias-1-2-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-2-libra/1-2-lb-torta-fria-tiramisu-190",
+      "name": "1/2 lb Torta Fría Tiramisú",
+      "description": "Torta fría, húmeda en 3 leches de café , cubierta de crema de queso tipo postre, cacao tamizado y láminas de chocolate.",
+      "price": 76000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/190",
+      "wasSoldOut": false
+    },
+    {
+      "id": "334",
+      "category": "tortas-frias-1-2-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-2-libra/1-2-lb-torta-fria-leche-en-polvo-334",
+      "name": "1/2 lb Torta Fría leche en polvo",
+      "description": "Es deliciosa, con relleno de leche en polvo con leche condensada, húmeda en 3 leches, su cubierta viene con el mismo relleno.",
+      "price": 76000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/334",
+      "wasSoldOut": false
+    },
+    {
+      "id": "178",
+      "category": "tortas-frias-1-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-libra/1-lb-torta-3-leches-arequipe-178",
+      "name": "1 lb Torta 3 Leches Arequipe",
+      "description": "",
+      "price": 101000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/178",
+      "wasSoldOut": false
+    },
+    {
+      "id": "176",
+      "category": "tortas-frias-1-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-libra/1-lb-torta-3-leches-fresayorgurt-176",
+      "name": "1 lb Torta 3 Leches Fresayorgurt",
+      "description": "",
+      "price": 101000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/176",
+      "wasSoldOut": false
+    },
+    {
+      "id": "179",
+      "category": "tortas-frias-1-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-libra/1-lb-torta-3-leches-tradicional-amor-mio-179",
+      "name": "1 lb Torta 3 Leches Tradicional Amor Mío",
+      "description": "",
+      "price": 101000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/179",
+      "wasSoldOut": false
+    },
+    {
+      "id": "175",
+      "category": "tortas-frias-1-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-libra/1-lb-torta-fria-chocobrown-arequipe-175",
+      "name": "1 lb Torta Fría Chocobrown arequipe",
+      "description": "Torta Fría Chocobrown arequipe",
+      "price": 101000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/175",
+      "wasSoldOut": false
+    },
+    {
+      "id": "172",
+      "category": "tortas-frias-1-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-libra/1-lb-torta-fria-leche-en-polvo-y-leche-condensada-172",
+      "name": "1 lb Torta fría leche en polvo y leche condensada",
+      "description": "Húmeda en 3 leches. Baja en azúcar",
+      "price": 101000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/172",
+      "wasSoldOut": false
+    },
+    {
+      "id": "171",
+      "category": "tortas-frias-1-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-libra/1-lb-torta-fria-maracuya-171",
+      "name": "1 lb Torta fría maracuyá",
+      "description": "Húmeda en 3 leches de maracuyá con cubierta y relleno de crema de queso",
+      "price": 101000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/171",
+      "wasSoldOut": false
+    },
+    {
+      "id": "169",
+      "category": "tortas-frias-1-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-libra/1-lb-torta-fria-milo-169",
+      "name": "1 lb Torta Fría Milo",
+      "description": "Con relleno de crema milo y brownie tradicional.",
+      "price": 101000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/169",
+      "wasSoldOut": false
+    },
+    {
+      "id": "174",
+      "category": "tortas-frias-1-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-libra/1-lb-torta-fria-napoleon-174",
+      "name": "1 lb Torta Fría Napoleón",
+      "description": "Rellena de postre napoleón con galleta y chips de chocolate blanco con leche condensada, húmeda en 3 leches",
+      "price": 101000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/174",
+      "wasSoldOut": false
+    },
+    {
+      "id": "170",
+      "category": "tortas-frias-1-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-libra/1-lb-torta-fria-snickers-170",
+      "name": "1 lb Torta Fría Snickers",
+      "description": "Con relleno de crema mix con caramelo, brownie tradicional y maní.",
+      "price": 101000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/170",
+      "wasSoldOut": false
+    },
+    {
+      "id": "177",
+      "category": "tortas-frias-1-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-libra/1-lb-torta-fria-tiramisu-177",
+      "name": "1 lb Torta Fría Tiramisú",
+      "description": "",
+      "price": 101000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/177",
+      "wasSoldOut": false
+    },
+    {
+      "id": "335",
+      "category": "tortas-frias-1-libra",
+      "path": "/lapostreríacafé/tortas-frias-1-libra/1-lb-torta-fria-leche-en-polvo-335",
+      "name": "1 lb Torta Fría leche en polvo",
+      "description": "Es deliciosa, con relleno de leche en polvo con leche condensada, húmeda en 3 leches, su cubierta viene con el mismo relleno.",
+      "price": 101000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/335",
+      "wasSoldOut": false
+    },
+    {
+      "id": "212",
+      "category": "tortas-mini-ponque",
+      "path": "/lapostreríacafé/tortas-mini-ponque/torta-mini-de-chocolate-212",
+      "name": "Torta Mini de Chocolate",
+      "description": "Cubierta y rellena de crema de chocolate",
+      "price": 35000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/212?updatedAt=1794926089",
+      "wasSoldOut": false
+    },
+    {
+      "id": "210",
+      "category": "tortas-mini-ponque",
+      "path": "/lapostreríacafé/tortas-mini-ponque/torta-mini-dorada-210",
+      "name": "Torta Mini dorada",
+      "description": "Cubierta de arequipe dorado . Se envía en blonda dorada",
+      "price": 40000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/210",
+      "wasSoldOut": false
+    },
+    {
+      "id": "216",
+      "category": "tortas-mini-ponque",
+      "path": "/lapostreríacafé/tortas-mini-ponque/torta-mini-dulce-de-leche-216",
+      "name": "Torta Mini dulce de leche",
+      "description": "Ponqué vainilla bajo en azúcar , cubierto y relleno de dulce de leche artesanal",
+      "price": 35000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/216",
+      "wasSoldOut": false
+    },
+    {
+      "id": "213",
+      "category": "tortas-mini-ponque",
+      "path": "/lapostreríacafé/tortas-mini-ponque/torta-mini-naranja-amapola-213",
+      "name": "Torta Mini naranja amapola",
+      "description": "La imagen es de referencia Torta mini para 5 porciones. Su base va en blonda icopor, se maneja base dorada a partir de media libra.",
+      "price": 35000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/213",
+      "wasSoldOut": false
+    },
+    {
+      "id": "208",
+      "category": "tortas-mini-ponque",
+      "path": "/lapostreríacafé/tortas-mini-ponque/torta-mini-naranja-crema-de-la-casa-208",
+      "name": "Torta Mini Naranja Crema de la casa",
+      "description": "Baja en azúcar, cubierta y rellena de crema de la casa",
+      "price": 35000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/208",
+      "wasSoldOut": false
+    },
+    {
+      "id": "214",
+      "category": "tortas-mini-ponque",
+      "path": "/lapostreríacafé/tortas-mini-ponque/torta-mini-ponque-vainilla-chocomani-214",
+      "name": "Torta Mini Ponqué Vainilla chocomaní",
+      "description": "Ponqué Vainilla",
+      "price": 35000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/214",
+      "wasSoldOut": false
+    },
+    {
+      "id": "215",
+      "category": "tortas-mini-ponque",
+      "path": "/lapostreríacafé/tortas-mini-ponque/torta-mini-ponque-naranja-maracuya-215",
+      "name": "Torta Mini Ponqué Naranja Maracuyá",
+      "description": "Ponqué naranja bajo en azucar, con cubierta y relleno de crema de queso con zumo de maracuyá natural.",
+      "price": 35000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/215",
+      "wasSoldOut": false
+    },
+    {
+      "id": "211",
+      "category": "tortas-mini-ponque",
+      "path": "/lapostreríacafé/tortas-mini-ponque/torta-mini-ponque-vainilla-arequipe-211",
+      "name": "Torta Mini Ponqué Vainilla Arequipe",
+      "description": "Cubierta y rellena de arequipe",
+      "price": 35000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/211",
+      "wasSoldOut": false
+    },
+    {
+      "id": "217",
+      "category": "tortas-mini-ponque",
+      "path": "/lapostreríacafé/tortas-mini-ponque/torta-mini-red-velvet-217",
+      "name": "Torta Mini Red Velvet",
+      "description": "Torta de chocolate roja ponqué, suave y esponjosa con relleno y cubierta de crema de queso tipo postre 🧀 y cereza 🍒",
+      "price": 35000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/217",
+      "wasSoldOut": false
+    },
+    {
+      "id": "209",
+      "category": "tortas-mini-ponque",
+      "path": "/lapostreríacafé/tortas-mini-ponque/torta-mini-zanahoria-209",
+      "name": "Torta Mini Zanahoria",
+      "description": "Con crema de queso, nueces y especias, hecha a base de zumo de zanahoria , baja en azúcar.",
+      "price": 35000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/209",
+      "wasSoldOut": false
+    },
+    {
+      "id": "325",
+      "category": "tortas-mini-ponque",
+      "path": "/lapostreríacafé/tortas-mini-ponque/torta-mini-sprinkle-325",
+      "name": "Torta Mini Sprinkle",
+      "description": "Ponqué de vainilla con crema de queso y chispas de colores",
+      "price": 35000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/325",
+      "wasSoldOut": false
+    },
+    {
+      "id": "331",
+      "category": "tortas-mini-ponque",
+      "path": "/lapostreríacafé/tortas-mini-ponque/torta-mini-alfajor-331",
+      "name": "Torta Mini Alfajor",
+      "description": "",
+      "price": 40000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/331?updatedAt=1794955561",
+      "wasSoldOut": false
+    },
+    {
+      "id": "242",
+      "category": "tortas-1-2-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-2-libra-ponque/1-2-lb-torta-amapola-naranja-crema-de-la-casa-242",
+      "name": "1/2 lb Torta Amapola naranja crema de la casa",
+      "description": "Torta de naranja con amapola, cubierta y rellena de crema de la casa.",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/242?updatedAt=1794880996",
+      "wasSoldOut": false
+    },
+    {
+      "id": "238",
+      "category": "tortas-1-2-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-2-libra-ponque/1-2-lb-torta-de-chocolate-238",
+      "name": "1/2 lb Torta de Chocolate",
+      "description": "Pidela con o sin mensaje sin costo adicional o (pidela con chips de chocolates variados al mismo precio)",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/238?updatedAt=1794881039",
+      "wasSoldOut": false
+    },
+    {
+      "id": "237",
+      "category": "tortas-1-2-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-2-libra-ponque/1-2-lb-torta-de-zanahoria-237",
+      "name": "1/2 lb Torta de Zanahoria",
+      "description": "Hecha a base de zumo de zanahoria y baja en azúcar. Lleva nueces alrededor y cubierta con relleno de crema de queso",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/237",
+      "wasSoldOut": false
+    },
+    {
+      "id": "233",
+      "category": "tortas-1-2-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-2-libra-ponque/1-2-lb-torta-dorada-233",
+      "name": "1/2 lb Torta dorada",
+      "description": "Cubierta de arequipe dorado",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/233",
+      "wasSoldOut": false
+    },
+    {
+      "id": "239",
+      "category": "tortas-1-2-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-2-libra-ponque/1-2-lb-torta-dulce-de-leche-239",
+      "name": "1/2 lb Torta dulce de leche",
+      "description": "Ponqué de vainilla bajo en azúcar, cubierto y relleno de dulce de leche artesanal",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/239?updatedAt=1794881023",
+      "wasSoldOut": false
+    },
+    {
+      "id": "240",
+      "category": "tortas-1-2-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-2-libra-ponque/1-2-lb-torta-vainilla-chocomani-240",
+      "name": "1/2 lb Torta Vainilla chocomaní",
+      "description": "Ponqué Vainilla",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/240?updatedAt=1794887439",
+      "wasSoldOut": false
+    },
+    {
+      "id": "235",
+      "category": "tortas-1-2-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-2-libra-ponque/1-2-lb-torta-naranja-235",
+      "name": "1/2 lb Torta Naranja",
+      "description": "Cubierta y rellena de crema de queso.",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/235?updatedAt=1794881052",
+      "wasSoldOut": false
+    },
+    {
+      "id": "232",
+      "category": "tortas-1-2-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-2-libra-ponque/1-2-lb-torta-naranja-maracuya-232",
+      "name": "1/2 lb Torta Naranja Maracuyá",
+      "description": "Bajo en azúcar.con pulpa de zumo natural de maracuyá",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/232",
+      "wasSoldOut": false
+    },
+    {
+      "id": "244",
+      "category": "tortas-1-2-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-2-libra-ponque/1-2-lb-torta-red-velvet-244",
+      "name": "1/2 lb Torta Red Velvet",
+      "description": "",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/244",
+      "wasSoldOut": false
+    },
+    {
+      "id": "236",
+      "category": "tortas-1-2-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-2-libra-ponque/1-2-lb-torta-sprinkle-cake-236",
+      "name": "1/2 lb Torta Sprinkle Cake",
+      "description": "Deliciosa no incluye vela",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/236",
+      "wasSoldOut": false
+    },
+    {
+      "id": "234",
+      "category": "tortas-1-2-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-2-libra-ponque/1-2-lb-torta-vainilla-arequipe-fiesta-234",
+      "name": "1/2 lb Torta Vainilla Arequipe fiesta",
+      "description": "Cubierta y rellena de arequipe. Lleva sprinkles de colores y pavlovas en línea decorativa.",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/234",
+      "wasSoldOut": false
+    },
+    {
+      "id": "332",
+      "category": "tortas-1-2-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-2-libra-ponque/1-2-lb-torta-alfajor-332",
+      "name": "1/2 lb Torta Alfajor",
+      "description": "",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/332?updatedAt=1794887404",
+      "wasSoldOut": false
+    },
+    {
+      "id": "221",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-sprinkle-cake-221",
+      "name": "1 lb Torta Sprinkle Cake",
+      "description": "Deliciosa con muchos colores y una cubierta con relleno de chantillí de chocolate blanco",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/221",
+      "wasSoldOut": false
+    },
+    {
+      "id": "222",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-de-chocolate-222",
+      "name": "1 lb Torta de Chocolate",
+      "description": "Llévala con mensaje sin costo o pidela con doble chips de chocolate al mismo precio. Para 25 o 30 personas aprox.",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/222",
+      "wasSoldOut": false
+    },
+    {
+      "id": "223",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-de-naranja-crema-de-la-casa-223",
+      "name": "1 lb Torta de Naranja Crema de la casa",
+      "description": "Para 25 0 30 personas aprox.",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/223?updatedAt=1795100823",
+      "wasSoldOut": false
+    },
+    {
+      "id": "226",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-de-zanahoria-226",
+      "name": "1 lb Torta de Zanahoria",
+      "description": "Para 25 o 30 personas, hecha a base de zumo de zanahorias, baja en azúcar",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/226",
+      "wasSoldOut": false
+    },
+    {
+      "id": "220",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-dorada-220",
+      "name": "1 lb Torta dorada",
+      "description": "Cubierta de arequipe dorado",
+      "price": 115000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/220?updatedAt=1794955499",
+      "wasSoldOut": false
+    },
+    {
+      "id": "227",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-dulce-de-leche-227",
+      "name": "1 lb Torta Dulce de leche",
+      "description": "Ponqué de vainilla bajo en azúcar, cubierto y relleno de dulce de leche artesanal",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/227",
+      "wasSoldOut": false
+    },
+    {
+      "id": "228",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-vainilla-chocomani-228",
+      "name": "1 lb Torta Vainilla chocomaní",
+      "description": "Ponqué Vainilla",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/228?updatedAt=1794955347",
+      "wasSoldOut": false
+    },
+    {
+      "id": "230",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-naranja-amapola-230",
+      "name": "1 lb Torta naranja amapola",
+      "description": "Torta de naranja con amapola, cubierta y rellena de crema de la casa.",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/230?updatedAt=1794955456",
+      "wasSoldOut": false
+    },
+    {
+      "id": "219",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-naranja-maracuya-219",
+      "name": "1 lb Torta Naranja Maracuyá",
+      "description": "Baja en azúcar",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/219",
+      "wasSoldOut": false
+    },
+    {
+      "id": "224",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-red-velvet-224",
+      "name": "1 lb Torta Red Velvet",
+      "description": "Para 25 o 30 personas aprox.",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/224",
+      "wasSoldOut": false
+    },
+    {
+      "id": "225",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-vainilla-arequipe-fiesta-225",
+      "name": "1 lb Torta Vainilla Arequipe Fiesta",
+      "description": "Para 25 o 30 personas aprox.",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/225",
+      "wasSoldOut": false
+    },
+    {
+      "id": "333",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-alfajor-333",
+      "name": "1 lb Torta Alfajor",
+      "description": "",
+      "price": 135000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/333?updatedAt=1794955386",
+      "wasSoldOut": false
+    },
+    {
+      "id": "228",
+      "category": "tortas-1-libra-ponque",
+      "path": "/lapostreríacafé/tortas-1-libra-ponque/1-lb-torta-vainilla-chocomani-228",
+      "name": "1 lb Torta Vainilla chocomaní",
+      "description": "Ponqué Vainilla",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/228?updatedAt=1794955347",
+      "wasSoldOut": false
+    },
+    {
+      "id": "207",
+      "category": "flork-divertidas-mini",
+      "path": "/lapostreríacafé/flork-divertidas-mini/torta-mini-meme-caricatura-207",
+      "name": "Torta Mini meme caricatura",
+      "description": "Elige sabor de tu torta...",
+      "price": 65000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/207",
+      "wasSoldOut": false
+    },
+    {
+      "id": "205",
+      "category": "flork-divertidas-mini",
+      "path": "/lapostreríacafé/flork-divertidas-mini/torta-mini-meme-fondo-blanco-205",
+      "name": "Torta Mini meme fondo blanco",
+      "description": "Elige sabor de tu torta...",
+      "price": 45000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/205",
+      "wasSoldOut": false
+    },
+    {
+      "id": "206",
+      "category": "flork-divertidas-mini",
+      "path": "/lapostreríacafé/flork-divertidas-mini/torta-mini-meme-fondo-color-y-muneco-206",
+      "name": "Torta Mini meme fondo color y muñeco",
+      "description": "Elige sabor de tu torta...",
+      "price": 50000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/206",
+      "wasSoldOut": false
+    },
+    {
+      "id": "201",
+      "category": "flork-divertidas-1-2-lb",
+      "path": "/lapostreríacafé/flork-divertidas-1-2-lb/1-2-lb-torta-meme-fondo-blanco-201",
+      "name": "1/2 lb Torta meme fondo blanco",
+      "description": "Elige sabor de tu torta...",
+      "price": 85000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/201",
+      "wasSoldOut": false
+    },
+    {
+      "id": "202",
+      "category": "flork-divertidas-1-2-lb",
+      "path": "/lapostreríacafé/flork-divertidas-1-2-lb/1-2-lb-torta-meme-fondo-color-202",
+      "name": "1/2 lb Torta meme fondo color",
+      "description": "Elige sabor de tu torta...",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/202",
+      "wasSoldOut": false
+    },
+    {
+      "id": "200",
+      "category": "flork-divertidas-1-lb",
+      "path": "/lapostreríacafé/flork-divertidas-1-lb/1-lb-torta-meme-fondo-blanco-200",
+      "name": "1 lb Torta meme fondo blanco",
+      "description": "Elige sabor de tu torta...",
+      "price": 95000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/200",
+      "wasSoldOut": false
+    },
+    {
+      "id": "203",
+      "category": "flork-divertidas-1-lb",
+      "path": "/lapostreríacafé/flork-divertidas-1-lb/1-lb-torta-meme-fondo-color-203",
+      "name": "1 lb Torta meme fondo color",
+      "description": "Elige sabor de tu torta...",
+      "price": 100000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/203",
+      "wasSoldOut": false
+    },
+    {
+      "id": "399",
+      "category": "cajas-detalle",
+      "path": "/lapostreríacafé/cajas-detalle/caja-dulce-y-sal-399",
+      "name": "Caja dulce y sal",
+      "description": "Sandwich 20cm de finas hierbas o de oliva 1 mantequillas pac 1 alfajores pac mini 1 coca cola lata",
+      "price": 43000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/399",
+      "wasSoldOut": false
+    },
+    {
+      "id": "398",
+      "category": "cajas-detalle",
+      "path": "/lapostreríacafé/cajas-detalle/caja-lovely-398",
+      "name": "Caja lovely",
+      "description": "Cupcakes x2 , postre 3 leches , fresas x4 decoradas con chocolate , brownie individual con arequipe ❤ caja , lazo y tarjeta ❤‍🩹",
+      "price": 53500,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/398",
+      "wasSoldOut": false
+    },
+    {
+      "id": "60",
+      "category": "cajas-detalle",
+      "path": "/lapostreríacafé/cajas-detalle/caja-merienda-hombre-60",
+      "name": "Caja merienda hombre",
+      "description": "(sandwich pan de oliva con pollo al queso crema, jamón de cerdo y queso mozarella) , hatsu, 3 postres de la casa sabor surtido, mini alfajores , brownie con arequipe personal. Lazo y tarjeta.",
+      "price": 74000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/60",
+      "wasSoldOut": false
+    },
+    {
+      "id": "58",
+      "category": "cajas-detalle",
+      "path": "/lapostreríacafé/cajas-detalle/caja-de-fresa-x-12-con-mensaje-58",
+      "name": "Caja de Fresa x 12 con mensaje",
+      "description": "",
+      "price": 42000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/58",
+      "wasSoldOut": false
+    },
+    {
+      "id": "54",
+      "category": "cajas-detalle",
+      "path": "/lapostreríacafé/cajas-detalle/fresas-mixtas-54",
+      "name": "Fresas mixtas",
+      "description": "Fresas mixtas (mini brownies x6 y fresas x6 con chocolate ) Incluye tarjeta",
+      "price": 42000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/54",
+      "wasSoldOut": false
+    },
+    {
+      "id": "322",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/galletas-pers-x-12-und-322",
+      "name": "Galletas Pers. x 12 und",
+      "description": "Galletas Pers. x 12 und (pedido anticipado)",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/322",
+      "wasSoldOut": false
+    },
+    {
+      "id": "411",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/canasta-de-pavlovas-x-12-411",
+      "name": "Canasta de pavlovas x 12",
+      "description": "Canastas pavlovas Frutal o choco arequipe",
+      "price": 55000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/411",
+      "wasSoldOut": false
+    },
+    {
+      "id": "412",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/pavlovas-personalizados-412",
+      "name": "Pavlovas personalizados",
+      "description": "Pavlovas personalizados (se hornean a partir de 2 docenas con el tono de tu preferencia, pedido anticipado)",
+      "price": 14000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/412?updatedAt=1794926016",
+      "wasSoldOut": false
+    },
+    {
+      "id": "413",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/fresas-cubiertas-x-12-und-413",
+      "name": "Fresas cubiertas x 12 und",
+      "description": "Fresas cubiertas con chocolate, surtidas, con apliques en fondant",
+      "price": 48000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/413",
+      "wasSoldOut": false
+    },
+    {
+      "id": "414",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/mini-chocoflan-x-12-und-414",
+      "name": "Mini Chocoflan x 12 und",
+      "description": "Mini Chocoflan x 12 und",
+      "price": 65000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/414",
+      "wasSoldOut": false
+    },
+    {
+      "id": "415",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/mini-brownies-personalizados-x-12-415",
+      "name": "Mini brownies personalizados x 12",
+      "description": "Mini Brownies personalizados en fondant",
+      "price": 65000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/415",
+      "wasSoldOut": false
+    },
+    {
+      "id": "417",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/tartaletas-x-12-und-417",
+      "name": "Tartaletas x 12 und",
+      "description": "Tartaletras tropicales $65.000 docena (pedido anticipado)",
+      "price": 65000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/417",
+      "wasSoldOut": false
+    },
+    {
+      "id": "418",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/mini-flan-de-caramelo-x-12-und-418",
+      "name": "Mini flan de caramelo x 12 und",
+      "description": "Mini flan caramelo x12 (pedido anticipado)",
+      "price": 62000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/418",
+      "wasSoldOut": false
+    },
+    {
+      "id": "419",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/alfajores-personalizados-x-12-und-419",
+      "name": "Alfajores personalizados x 12 und",
+      "description": "Alfajores personalizados. Son tamaño grande, cada uno viene con fondant y detalle en fondant en el tono de preferencia del cliente (Veteado)",
+      "price": 65000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/419",
+      "wasSoldOut": false
+    },
+    {
+      "id": "420",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/trufas-especiales-x-12-und-420",
+      "name": "Trufas especiales x 12 und",
+      "description": "Trufas especiales x 12 und",
+      "price": 58000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/420",
+      "wasSoldOut": false
+    },
+    {
+      "id": "421",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/brownie-pops-x-12-und-421",
+      "name": "Brownie Pops x 12 und",
+      "description": "Brownie pops x 12 und. Apliques en fondant personalizado",
+      "price": 60000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/421",
+      "wasSoldOut": false
+    },
+    {
+      "id": "422",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/mini-cupcakes-x-12-und-422",
+      "name": "Mini Cupcakes x 12 und",
+      "description": "Mini cupcakes x 12 und, color a elegir y grajeas decorativas.",
+      "price": 27000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/422",
+      "wasSoldOut": false
+    },
+    {
+      "id": "423",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/cake-pops-x-12-und-423",
+      "name": "Cake Pops x 12 und",
+      "description": "Cake Pops x 12 und",
+      "price": 50000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/423",
+      "wasSoldOut": false
+    },
+    {
+      "id": "424",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/mini-cheesecakes-frutos-del-bosque-x-12-und-424",
+      "name": "Mini cheesecakes frutos del bosque x 12 und",
+      "description": "Mini cheesecakes frutos del bosque x 12 und",
+      "price": 65000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/424",
+      "wasSoldOut": false
+    },
+    {
+      "id": "425",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/cake-pops-especiales-x-12-und-425",
+      "name": "Cake Pops especiales x 12 und",
+      "description": "Cake pops especiales x 12 und, con apliques Fondant (pedido anticipado )",
+      "price": 75000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/425",
+      "wasSoldOut": false
+    },
+    {
+      "id": "56",
+      "category": "mesa-de-dulces",
+      "path": "/lapostreríacafé/mesa-de-dulces/cupcakes-personalizados-x-12-und-56",
+      "name": "Cupcakes personalizados x 12 und",
+      "description": "Lleva tarjeta",
+      "price": 50000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/56",
+      "wasSoldOut": false
+    },
+    {
+      "id": "401",
+      "category": "shots",
+      "path": "/lapostreríacafé/shots/shots-red-velvet-x-12-und-401",
+      "name": "Shots Red Velvet x 12 und",
+      "description": "Shots Red Velvet x 12 und",
+      "price": 40000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/401",
+      "wasSoldOut": false
+    },
+    {
+      "id": "402",
+      "category": "shots",
+      "path": "/lapostreríacafé/shots/shots-fresas-con-crema-x-12-und-402",
+      "name": "Shots fresas con crema x 12 und",
+      "description": "Shots fresas con crema x 12 und",
+      "price": 40000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/402?updatedAt=1794925703",
+      "wasSoldOut": false
+    },
+    {
+      "id": "403",
+      "category": "shots",
+      "path": "/lapostreríacafé/shots/shots-pie-de-limon-x-12-und-403",
+      "name": "Shots Pie de limón x 12 und",
+      "description": "Shots Pie de limón x 12 und",
+      "price": 40000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/403",
+      "wasSoldOut": false
+    },
+    {
+      "id": "404",
+      "category": "shots",
+      "path": "/lapostreríacafé/shots/shots-4-leches-x-12-und-404",
+      "name": "Shots 4 leches x 12 und",
+      "description": "Shots 4 leches x 12 und",
+      "price": 40000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/404",
+      "wasSoldOut": false
+    },
+    {
+      "id": "405",
+      "category": "shots",
+      "path": "/lapostreríacafé/shots/shots-tiramisu-x-12-und-405",
+      "name": "Shots Tiramisú x 12 und",
+      "description": "Shots Tiramisú x 12 und",
+      "price": 40000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/405",
+      "wasSoldOut": false
+    },
+    {
+      "id": "406",
+      "category": "shots",
+      "path": "/lapostreríacafé/shots/shots-3-leches-amor-mio-x-12-und-406",
+      "name": "Shots 3 leches Amor Mío x 12 und",
+      "description": "Shots 3 leches Amor Mío x 12 und",
+      "price": 40000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/406?updatedAt=1794925809",
+      "wasSoldOut": false
+    },
+    {
+      "id": "407",
+      "category": "shots",
+      "path": "/lapostreríacafé/shots/shots-maracuya-x-12-und-407",
+      "name": "Shots Maracuyá x 12 und",
+      "description": "Shots Maracuyá x 12 und",
+      "price": 40000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/407",
+      "wasSoldOut": false
+    },
+    {
+      "id": "713",
+      "category": "shots",
+      "path": "/lapostreríacafé/shots/shots-torterito-x-12-713",
+      "name": "Shots Torterito x 12",
+      "description": "",
+      "price": 40000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/713?updatedAt=1794955011",
+      "wasSoldOut": false
+    },
+    {
+      "id": "245",
+      "category": "velitas-y-toppers",
+      "path": "/lapostreríacafé/velitas-y-toppers/volcan-245",
+      "name": "Volcán",
+      "description": "Bengala",
+      "price": 5000,
+      "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/318814/common/products/245",
+      "wasSoldOut": true
+    }
+  ]
+}
