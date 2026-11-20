@@ -26,3 +26,7 @@ Se creó la bóveda siguiendo el patrón [[fuentes/llm-wiki|LLM Wiki]], se confi
 ## [2026-11-20] lint | Validación de la web y la wiki
 
 Se comprobaron la compilación y los enlaces de las 11 notas. En el navegador se probaron la navegación, la carta con 191 productos únicos, los filtros, la búsqueda sin tilde, el recorrido hacia la ficha oficial y el diseño móvil de 390 píxeles. La consulta de stock se probó con datos simulados. La conexión a la cuenta de Fudo sigue pendiente.
+
+## [2026-11-20] decision | Logo oficial, WhatsApp y trabajo por fases
+
+El usuario entregó el logo oficial y eligió WhatsApp al 316 644 7477 para los botones de contacto de la landing. También pidió aplicar la guía de Emil Kowalski y marcar el avance en un plan en la raíz. Se dejó la [lista de implementación](../PLAN-IMPLEMENTACION.md) y se vinculó desde [[proyecto/plan|Plan de trabajo]].

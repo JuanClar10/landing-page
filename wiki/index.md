@@ -15,7 +15,7 @@ Memoria del sitio web y catálogo de La Postrería Café en Valledupar. Abre est
 
 ## Proyecto
 
-- [[proyecto/plan|Plan de trabajo]] — avance, siguientes hitos y cómo comprobarlos.
+- [[proyecto/plan|Plan de trabajo]] — avance, siguientes hitos y acceso a la lista de implementación de la raíz.
 - [[proyecto/diseno|Diseño de la web]] — recorrido de compra y decisiones de la primera versión.
 - [[proyecto/fudo-stock|Stock desde Fudo]] — evidencia técnica, configuración y pasos para verificar.
 - [[proyecto/github|GitHub y publicación]] — repositorio, rama y proceso de sincronización.
